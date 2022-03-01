@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of a letter, showing the true relation, of the late and happie victorie, receaved by the Marques of Montrose, agaynst Generall Lievetenant Baylie, and others of the rebells, at Alfood, the second of Iulie, 1645.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02381</idno>
+            <idno type="STC">Wing C6158A</idno>
+            <idno type="STC">ESTC R174256</idno>
+            <idno type="EEBO-CITATION">52614583</idno>
+            <idno type="OCLC">ocm 52614583</idno>
+            <idno type="VID">175812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02381)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175812)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2751:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of a letter, showing the true relation, of the late and happie victorie, receaved by the Marques of Montrose, agaynst Generall Lievetenant Baylie, and others of the rebells, at Alfood, the second of Iulie, 1645.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>J. Brown,</publisher>
+                  <pubPlace>[Aberdeen? :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication data suggested by Wing (2nd ed.).</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Montrose, James Graham, --  Marquis of, 1612-1650 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:175812:1"/>
+            <pb facs="tcp:175812:1"/>
+            <head>
+               <hi>SIR,</hi> Here is the true Relation of the Happy Victory receaved by the Marques <hi>of Montroſe, agaynſt Generall Lievete<g ref="char:EOLhyphen"/>nant Bailie, and others of the Rebels,</hi> at Alfoord, Iulii 2. A. D. 1645.</head>
+            <p>THE MARQUES of MONTROSE (as I ſhew in my laſt) beeing in Stretharle Lindſay did retyre to the Strengths and Holds about Neutile, ſo that the Marques could not without deſperate hazard force him to fight; wherefore hee reſolved to march back vpon Bailie, who was then of return from Innerneſs, and oppreſsing all his Majeſties faythfull Subjects within the Shyrefdom of Aberdene.</p>
+            <p>MONTROSE lifteth from Stretharle, and by long marches, the third night pitcheth in Cro of Marr: Bailie (being then at Neuton in Garioch) moveth toward the Park of Drum (always incamping in the ſtrongeſt grounds vpon his march) and there reſolveth to ſtay vntill Lindſay ſhould come for his Aſſiſtance, who hee had advertized for that effect.</p>
+            <p>MONTROSE all this tyme was obliedged to ſtay in Cro of Marr, expecting his Levies chiefly of Voluntire Horſs; who were ſlow in comming neither very conſide<g ref="char:EOLhyphen"/>rable at that tyme when they were come. <hi>MONTROSE</hi> being thus diſappoynted of his own ſupplies, and having
+<pb n="4" facs="tcp:175812:2"/>directed Maſter <hi>Mack Donald,</hi> with ſome Forces, for rayſing the <hi>Hie-lands,</hi> to joyn with them: When hee did vnderſtand of Lindſay's Advance hee thought it not fit to hazard one ſo vnequall terms, nor handſom to ſeem to march off vpon their joyning. Therefore, hee reſolved to ſeem to haue another deſign, and matched for Cargarth, which is a ſtrong ground, and lay conveniently for the Randevouſs of all his Forces. Upon which Lindſay re<g ref="char:EOLhyphen"/>turneth to Angus, taking the Regiment of Red-coats; and leaving thoſe hee had, with Baylie in their place after which Baylie removed to the Engie, and there ſeemeth to reſolue his ſtay, vpon which <hi>MONTROSE</hi> marcheth to Balvenie, ſome eyght myles from him. And being ſuffi<g ref="char:EOLhyphen"/>ciently informed of his Force, reſolved to march towards him.</p>
+            <p>But Baylie removeth that ſame very tyme, vpon which <hi>MONTROSE</hi> directed out ſome Horſs, who preſentlie vewed the Enemies whole Horſs and Dragowniers their foot being at a little diſtance: Wherevpon <hi>MONTROSE</hi> drew vp his whole foot the Armies being at about two myles diſtance, and commandeth them to halt there in their Order hee himſelf goeth with his whole Horſs, and ſome four hundreth Muſquetiers, for ſtankers to the top of the next hill, to vew the Enemie: Which they percea<g ref="char:EOLhyphen"/>ving (after ſome Skirmiſhing, with louſs Horſes) rety<g ref="char:EOLhyphen"/>reth over a paſſe: where they placed ſome Dragoniers, and thereafter to another paſſe hard by it, at the foot of a Bra; to which their Dragoniers retyred quyting the firſt paſſe. Upon which <hi>MONTROSE</hi> advanceth all his Foot to his Horſs, and putteth Muſquetiers to the firſt paſſe. The Enemie draweth all their Foot to the Bra, to which their Horſs retyred which was an extream ſtrong ground. Thus lay both the Armies on hights, and each of them mayn<g ref="char:EOLhyphen"/>tayn a paſſe in the bottom, it beeing alreadie dark, they
+<pb n="5" facs="tcp:175812:2"/>paſſed that night: The next morning <hi>MONTROSE</hi> (fin<g ref="char:EOLhyphen"/>ding there was no poſſibilitie to force the Enemie, without much hazard) directed a Drum to them, and deſyred they would take it in their choyce, eyther to paſs towards him, and hee would march off; or that they would march off, that hee might advance towards them: Both of which they refuſed; and replyed, they would bee at thier advantage. Upon which <hi>MONTROSE</hi> marched off; thinking to haue drawn them after him: But they did not ſo much as put out a Scout, to ſee whither hee was gone: So hee mar<g ref="char:EOLhyphen"/>ched that night to Drumminer.</p>
+            <p>Where putting off the next day, hee reſolveth the day thereafter, to march for Alfoord; the Enemie being infor<g ref="char:EOLhyphen"/>med, that <hi>MONTROSE</hi> men were all ſtragled advanceth towards Drumminer this ſame morning. Notwithſtan<g ref="char:EOLhyphen"/>ding <hi>MONTROSE</hi> reſolved to continue his march, vntill hee ſhould vew, and get intelligence, and vnderſtand per<g ref="char:EOLhyphen"/>fectlie, vpon what occaſion the Enemie had altered their Reſolution, as not being willing before to fight now ſo hardilie to perſue it.</p>
+            <p>His march at Drumminer was not well moving, when the Enemies Scouts appeareth, notwithſtanding hee advan<g ref="char:EOLhyphen"/>ceth ſlowlie, and keepeth his whole Horſs, and ſome Muſ<g ref="char:EOLhyphen"/>quetiers on the Rire; the Enemie advances and takes a little to the left hand: But <hi>MONTROSE</hi> continueth his march to Alfoord; where hee incampeth that night; and the Enemie pitcheth ſome four myles from him, vpon the left hand.</p>
+            <p>The next morning, <hi>MONTROSE</hi> going abroad himſelf (to direct ſome well mounted Horſs, for ſcouting certayn intelligence, concerning the Enemie) fyndeth (that they were faſt advancing (vpon their former intelligence of <hi>MONTROSE</hi> ſmall number,) wherevpon knowing hee was able to fight them, tho not near in number, and that
+<pb n="6" facs="tcp:175812:3"/>Lindſay was on his march to joyn with them, hee reſol<g ref="char:EOLhyphen"/>veth to draw from his Quarter towards them; and that hee might do it with the more freedom, (the Enemie beeing within two myles, hee appoynteth a Troup with ſome louſe horſs to Skirmiſh: But they conceaving that hee was marching off, and taking the retreat, advanced with the more expedition, and croſſeth the River of Done, with their whole Horſs, and commanded Muſquetiers, beateth in <hi>MONTROSE</hi> louſe Horſes, and advanced their whole Armie, within half a myle to him. Which hee percea<g ref="char:EOLhyphen"/>ving that they would either haue him fight, or make an hot Retreat; and knowing perfectlie their numbers, (as in thoſe caſes, it is ſtill the beſt to bee the perſuer) reſolved to put them to their defence: Whyle they ſuppoſed hee had been retiring, hee advanceth faſt vpon them, with his whole Armie, (which forced their Horſs Retire to their Foot) and taketh his Stand, within little more than Muſ<g ref="char:EOLhyphen"/>quet-ſhot to them, the Enemie, as yet, not being in poſture in reſpect all their numbers were not, as yet, come vp.</p>
+            <p>They began both to range themſelues, the Enemie fyn<g ref="char:EOLhyphen"/>ding <hi>MONTROSE</hi> reſolved to fight, did aſſwage their fu<g ref="char:EOLhyphen"/>rie, and got the half of the fear, and contenting themſelues not to advance further, betook themſelues to dykes and ad<g ref="char:EOLhyphen"/>vantages of ground; where they put themſelues in Battaill: <hi>MONTROSE</hi> beeing vpon a little ſwelling hight, they did not well perceaue his numbers vntill they were near the chock, which made them much the more aſtoniſhed, hee lykewyſe put himſelf in order, giving the charge of his Right Wing to the Lord Gordon, and Colonell Gordon, of the Left to the Lord Oboin, and Sir William Rollok, the Hie-landers had the Bodie of the Battaill, led on by Balloch General, Quarter Maſter Graham, &amp; William Far<g ref="char:EOLhyphen"/>charſone of Innerray, the Iriſh Muſquetiers flanked the wings of Horſs, hee himſelf was before the right wing with
+<pb n="7" facs="tcp:175812:3"/>ſome reformire officers, the Maſter of Napier commanded the Reſerue of the right wing, and Glangarie that of the Hie-landers. Thus framed after <hi>MONTROSE</hi> had ordered his Horſs to charge at firſt with Sword: hee maketh a ſign to march vpon the Enemie, who had their Foot within dykes, and their wings a little advanced with flanking Muſ<g ref="char:EOLhyphen"/>quetiers: But the Enemie perceaving him march reſolute<g ref="char:EOLhyphen"/>lie vpon them, keeps only their Stand, vntill the wings were within a verie little diſtance, then they advanced at a trot where there was a verie hot charge, and warm ran<g ref="char:EOLhyphen"/>counter: For it was ſo rough vpon the Enemies left wing (their Horſs being ſo hotly handled, by thoſe Gallant Gen<g ref="char:EOLhyphen"/>tle-men of <hi>MONTROSE</hi> Right Wing) that they would gladly haue changed their Adverſaries, and aimed, to fall vpon the Foot that flanked thoſe Horſs: But that <hi>MONT<g ref="char:EOLhyphen"/>ROSE</hi> himſelf ſtopt their deſign, with his Right Wings re<g ref="char:EOLhyphen"/>ſerue commanded by the Maſter of Napier, who had ad<g ref="char:EOLhyphen"/>vanced to fall on vpon the flank and reire of the Enemie. Which the Enemies flanking Muſquetiers perceaving after their ſalvie retired behind their Horſs: and their Horſs per<g ref="char:EOLhyphen"/>ceaving that <hi>MONTROSE</hi> with the reſerue was readie to fall vpon their naked flank, they run Horſs and Foot.</p>
+            <p>The right wing was routed with leſs difficultie: for after the betting in of ſome commanded Muſquetiers, their horſs did not bide the charge only their piks ſeemed to make ſom ſtay, who beeing ſurrounded by the flanking Muſquetiers of <hi>MONTROSE</hi> left wing, were all cut off in the place.</p>
+            <p>The Enemie was of Foot 1500, and of Horſs 500, the whole Foot Officers and Souldiours, were totallie cut off, except ſome few Straglers, and twelue Officers that were taken Priſoners: their Horſes had the Chaſe nyne myles, and were all killed, wounded, or diſperſed.</p>
+            <p>
+               <hi>MONTROSE</hi> had killed on the Field only ſeven that were known, after all the Search, hee could make amongſt
+<pb n="8" facs="tcp:175812:4"/>who was the Lord Gordon, a braue Gentle-man; who lived faythfully, and died valiantly, in his Majeſties ſervice; the Lairds of Balwholy, and Milton alſo. Where were divers hurt, Amongſt who were George Dowglaſs ſonne to the Earll of Morton, who carried the Standart of Horſs; Sir William Hay of Dalgitie Colonell Gordon, the Laird of Gight; all acting the Parts of braue Men.</p>
+            <div type="part">
+               <p>IT were to bee wiſht, that people of all ſorts and conditions, would take this to conſideration, that the hand of the Lord hath now the fift tyme gi<g ref="char:EOLhyphen"/>ven an eyedent token of His wrath and anger, for the ſtryvings of this ſe<g ref="char:EOLhyphen"/>ditious faction in this Nation, agaynſt their Prince. For now this is the fift powerfull Armie, that haue been totallie overthrown to them, by the <hi>Mar<g ref="char:EOLhyphen"/>ques of Montroſe,</hi> without the aide of any, except the Earl of Airlie, and the Lord Gordon; hee beeing ſtill but an handfull, lyke Gedion's choice, wa<g ref="char:EOLhyphen"/>ter-leaperty they truſting in the numbers of their Armies, and multitude of Forces: Hee without Amonition, Arms, or that which is the ſinewes of Ar<g ref="char:EOLhyphen"/>mies; ſaving what hee had from their Camp; they full fraught withall.</p>
+               <p>When wee ſee their frequent Faſtings, &amp; Humiliations, &amp; the Lord ſtill angrie, can wee but think, that there is ſome boſome ſinnes vnrepented of, when wee ſee them humbled, for the ordinarie ſinnes of the world, as Adul<g ref="char:EOLhyphen"/>teries, Murthers, Drunkenneſs, &amp;c. And yet the Lord ſtill ſmyting: Can wee but conceaue, but there is ſome extraordinarie ſinnes lieth hid?</p>
+               <p>Is it not Achans Wedge? And Babylonian Garment? Is not that ſtol<g ref="char:EOLhyphen"/>len Wedge of Gold there? The Kings Rents hee is robbed of here. Is not that Babylonian Garment there? His Royall Praerogatiue rent from him here. But, Who hath repented of this? Or, Who hath thought it a ſinne at all, amongst other ſinnes?</p>
+               <p>Truelie, it were to bee wiſhed, that they would repent them of the Evill Done; And intended agaynſt his Majeſties Sacred Perſon, and Authori<g ref="char:EOLhyphen"/>tie; And, no queſtion, the LORD would repent Him of the Evill de<g ref="char:EOLhyphen"/>termined agaynſt them; and in the middeſt of His Anger, would remember, Mercie, to ſtay the Iſſue of Blood, by ſheathing the Devowring Sword vpon the one Hand; And ſtop the Furie of the Deſtroying Plague on the other.</p>
+            </div>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
